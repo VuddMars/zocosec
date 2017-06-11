@@ -1,0 +1,66 @@
+#contenedor {width: 770px;
+             margin: 0 auto;
+            }
+body {background-color: white;
+      }
+#cabecera #hr1 {border:2px solid #FF8C00;
+               }
+#cabecera #hr2 {border:2px solid #FF8C00;
+                margin-top: 2px;
+                }
+#button1{width: 15%;
+        height: 50px;
+        margin-top: -11%;
+        float: left;
+        margin-left: 30%;
+        background-color: 	#FF8C00;
+
+        border: 2px solid orange;
+        border-radius: 5%;
+        font-color:orange;
+        cursor: pointer;
+        box-shadow: 10px 10px 5px #888888}
+
+#button2{width: 15%;
+        height: 50px;
+        margin-top: -11%;
+        float: left;
+        margin-left: 53%;
+        background-color: #FF8C00;
+
+        border: 2px solid orange;
+        border-radius: 5%;
+        font-color:orange;
+        cursor: pointer;
+        box-shadow: 10px 10px 5px #888888}
+
+#button3{width: 24%;
+        height: 50px;
+        margin-top: -11%;
+        float: left;
+        margin-left: 75%;
+        background-color: #FF8C00;
+
+        border: 2px solid orange;
+        border-radius: 5%;
+        font-color:orange;
+        cursor: pointer;
+        box-shadow: 10px 10px 5px #888888;
+        }
+#button1:hover {background-color: 	#F5DEB3}
+#button3:hover {background-color: 	#F5DEB3}
+a {color: white}
+h2{color: #FF8C00}
+#hr1 {border:1px orange solid;}
+
+table td {padding: 7px; text-align: left;}
+table th {padding: 7px; text-align: center;}
+#footer {text-align: center;
+
+
+border-bottom: 3px solid rgba(52, 52, 52, 0.7);
+line-height: 0.1;
+font-weight:bold;
+font-size: 80%;
+margin-top: 4%
+}

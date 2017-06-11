@@ -1,0 +1,99 @@
+#contenedor {width: 770px;
+             margin: 0 auto;
+            }
+body {background-color: white;
+      }
+#cabecera #hr1 {border:2px solid #FF8C00;
+               }
+#cabecera #hr2 {border:2px solid #FF8C00;
+                margin-top: 2px;
+                }
+#button1{width: 15%;
+        height: 50px;
+        margin-top: -11%;
+        float: left;
+        margin-left: 30%;
+        background-color: 	#FF8C00;
+
+        border: 2px solid orange;
+        border-radius: 5%;
+        font-color:orange;
+        cursor: pointer;
+        box-shadow: 10px 10px 5px #888888}
+
+#button2{width: 15%;
+        height: 50px;
+        margin-top: -11%;
+        float: left;
+        margin-left: 53%;
+        background-color: #FF8C00;
+
+        border: 2px solid orange;
+        border-radius: 5%;
+        font-color:orange;
+        cursor: pointer;
+        box-shadow: 10px 10px 5px #888888}
+
+#button3{width: 24%;
+        height: 50px;
+        margin-top: -11%;
+        float: left;
+        margin-left: 75%;
+        background-color: #FF8C00;
+
+        border: 2px solid orange;
+        border-radius: 5%;
+        font-color:orange;
+        cursor: pointer;
+        box-shadow: 10px 10px 5px #888888;
+        }
+#button2:hover {background-color: 	#F5DEB3}
+#button3:hover {background-color: 	#F5DEB3}
+a {color: white}
+
+h3 {font:caption;
+    text-align: center;}
+#telefono p {
+  color: #FF8C00;
+  text-shadow: 	#00FF00 0px 0px 10px; 
+  text-shadow: 	#00FF00 0px 0px 10px 10px;
+  font-size: 200%;
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 1%}
+  .n {text-align: center;}
+#anuncio h2{text-align: center;}
+#hr3{ 
+  
+    border:         none;
+    border-left:    10px solid #FF8C00;
+    height:         100vh;
+    width:          1000px;    
+}
+iframe { margin-left: 17.5%;
+         margin-top: -85.9%;
+         background-color: transparent;
+         border: none;
+         float: left;
+         }
+video {margin-top: -42%;
+       margin-left: 17.5%;
+       float: left;}
+#hr4{ 
+  
+    border:         none;
+    border-left:    10px solid #FF8C00;
+    height:         100vh;
+    width:          1000px; 
+    margin-left: 98.9%;
+    margin-top: -84%  
+}
+#footer {text-align: center;
+
+
+border-bottom: 3px solid rgba(52, 52, 52, 0.7);
+line-height: 0.1;
+font-weight:bold;
+font-size: 80%;
+margin-top: 1%
+}
